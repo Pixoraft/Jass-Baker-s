@@ -1,0 +1,64 @@
+🚀 Build a world-class, ultra-professional, stunningly beautiful, and fully responsive website for a premium bakery brand called “Jass Baker’s”. It must feel like it was designed by the top 0.1% of web designers and developers in the world.
+
+💼 Business Details:
+- Name: Jass Baker’s
+- Address: 270-R, Rainbow Road, Model Town, Jalandhar, Punjab 144003
+- Contact: 0181-2273300, +91 7508333647
+- Instagram: @jassbakers
+- Hours: Open Daily, 9 am–10 pm
+- Order: via Call, WhatsApp, or Instagram DM
+- Delivery: Swiggy & Zomato
+
+🌟 Highlights:
+- 100% Eggless Cakes & Breads
+- Custom Cakes for All Occasions
+- Designer Pastries & Gift Hampers
+
+🔥 Popular Items (include with real images, prices & hover effects):
+- Tri Colour Cake – ₹600
+- Fresh Fruit Cake – ₹750
+- Lotus Biscoff Cake – ₹1080
+- Chocolate Pudding – ₹75
+- Pizza Base – ₹60
+
+🎯 Objective:
+Create a conversion-optimized, visually elite website that:
+- Instantly builds trust and credibility
+- Is SEO-optimized and fast-loading
+- Is mobile-first and touch-friendly
+- Makes customers feel they’re visiting a premium global bakery
+- Encourages orders via phone, WhatsApp, or Instagram
+
+🎨 Design Requirements:
+- Color Scheme: Elegant combo of cream white, warm pastels (peach, rose), chocolate browns, and golden accents
+- Typography: Use clean, luxurious fonts (like Playfair Display for headers, and Poppins or Lato for body)
+- Layout: Grid-based, full-width banners, clear product cards, rounded corners, soft drop shadows
+- Animations: Smooth fade-ins, subtle hover zoom, scroll-based reveals
+- Hero Banner: Full-screen image of their most luxurious cake with call-to-action: “Order Now on WhatsApp”
+
+📱 Features to include:
+1. Sticky top navbar with logo, links (Home, Menu, Gallery, Contact)
+2. Hero section with high-quality cake photo, tagline, and WhatsApp CTA button
+3. About Us section with short story and image of the shop or founder
+4. Menu section with cards showing popular items, images, names, prices
+5. Custom Cake Order section with a contact form (Name, Phone, Cake Type, Message) linked to WhatsApp
+6. Gallery section with a grid of mouthwatering cake photos (use placeholder if needed)
+7. Testimonials carousel from happy customers (use dummy content)
+8. Embedded Google Map of location
+9. Instagram feed preview (optional or mocked)
+10. Footer with address, contact, social links, copyright
+
+🔧 Tech Stack:
+- HTML, CSS, JavaScript
+- Responsive with Flexbox/Grid
+- Animations via CSS or small JS
+- FontAwesome for icons
+- No external database; use local JSON or hardcoded product list
+- Host-ready for Render or Replit deployment
+
+🎁 Bonus:
+- Add a “Gift Hampers” section showcasing bundle packs
+- Add micro-animations to cake images when hovered
+- Ensure accessibility (ARIA tags, good contrast, alt tags)
+
+🎨 Note: The final design should feel like Apple x Starbucks x premium wedding cake brand. Make the client feel proud of their online presence. Prioritize perfection.
