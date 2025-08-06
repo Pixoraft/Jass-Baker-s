@@ -48,12 +48,21 @@ export default function Menu() {
                       ? `From ₹${product.price}` 
                       : `₹${product.price}`}
                   </span>
-                  <Button
-                    onClick={() => orderProduct(product)}
-                    className="bg-[var(--chocolate)] text-white px-4 py-2 rounded-full hover:bg-[var(--deep-brown)] transition-colors"
-                  >
-                    Order Now
-                  </Button>
+                  <div className="flex space-x-2">
+                    <Button
+                      onClick={() => window.location.href = `/product/${product.id}`}
+                      variant="outline"
+                      className="border-[var(--chocolate)] text-[var(--chocolate)] px-3 py-2 rounded-full hover:bg-[var(--chocolate)] hover:text-white transition-colors text-sm"
+                    >
+                      View Details
+                    </Button>
+                    <Button
+                      onClick={() => orderProduct(product)}
+                      className="bg-[var(--chocolate)] text-white px-3 py-2 rounded-full hover:bg-[var(--deep-brown)] transition-colors text-sm"
+                    >
+                      Order Now
+                    </Button>
+                  </div>
                 </div>
               </CardContent>
             </Card>
