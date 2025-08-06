@@ -2,8 +2,8 @@ services:
   - type: web
     name: jass-bakers-website
     env: static
-    buildCommand: npm run build:static
-    staticPublishPath: ./dist
+    buildCommand: vite build
+    staticPublishPath: ./dist/public
     routes:
       - type: rewrite
         source: /*
