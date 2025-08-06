@@ -23,9 +23,13 @@ export default function Footer() {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
           <div className="md:col-span-2">
-            <h3 className="text-3xl font-bold mb-4 text-[var(--gold)]">
-              Jass Baker's
-            </h3>
+            <div className="flex items-center space-x-3 mb-4">
+              <img 
+                src="/logo-white.svg" 
+                alt="Jass Baker's Logo" 
+                className="h-10 w-auto"
+              />
+            </div>
             <p className="text-gray-300 mb-4 leading-relaxed">
               Crafting 100% eggless delights for your special moments. From custom cakes to designer pastries, we bring sweetness to every celebration in Jalandhar and beyond.
             </p>

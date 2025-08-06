@@ -29,7 +29,14 @@ export default function Navigation() {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex justify-between items-center h-16">
           <div className="flex-shrink-0">
-            <h1 className="font-bold text-2xl text-[var(--chocolate)]">Jass Baker's</h1>
+            <div className="flex items-center space-x-3">
+              <img 
+                src="/logo.svg" 
+                alt="Jass Baker's Logo" 
+                className="h-10 w-auto cursor-pointer"
+                onClick={() => window.location.href = "/"}
+              />
+            </div>
           </div>
 
           <div className="hidden md:block">
